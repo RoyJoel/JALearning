@@ -1,0 +1,6 @@
+framework module Pods_JAChatAndSocialSDKExampleTests {
+  umbrella header "Pods-JAChatAndSocialSDKExampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
